@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "ticker": "BTC",
+      "name": "Bitcoin",
+      "defillama_slug": "bitcoin",
+      "github_repos": ["bitcoin/bitcoin"],
+      "category": "core",
+      "target_allocation": 0.50
+    },
+    {
+      "ticker": "ETH",
+      "name": "Ethereum",
+      "defillama_slug": "ethereum",
+      "github_repos": ["ethereum/go-ethereum"],
+      "category": "core",
+      "target_allocation": 0.20
+    }
+  ]
+}
